@@ -15,4 +15,4 @@ Certified Data Analyst skilled in Power BI, SQL, Python, and Data Visualization.
 
 ## 📊 GitHub Stats:
 
-![Jayanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kdharmateja6-ship-it_HERE&show_icons=true&theme=tokyonight)
+![Dharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kdharmateja6-ship-it&show_icons=true&theme=tokyonight)
