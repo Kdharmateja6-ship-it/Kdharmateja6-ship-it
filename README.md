@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Dharma teja
 
-<!--
-**Kdharmateja6-ship-it/Kdharmateja6-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
 
-Here are some ideas to get you started:
+Certified Data Analyst skilled in Power BI, SQL, Python, and Data Visualization. CSE (Data science) student with a B.Tech background, passionate about turning data into business insights and building impactful dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats:
+
+![Jayanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kdharmateja6-ship-it_HERE&show_icons=true&theme=tokyonight)
