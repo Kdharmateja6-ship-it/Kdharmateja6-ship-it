@@ -16,3 +16,6 @@ Certified Data Analyst skilled in Power BI, SQL, Python, and Data Visualization.
 ## 📊 GitHub Stats:
 
 ![Dharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kdharmateja6-ship-it&show_icons=true&theme=tokyonight)
+
+## Projects:
+<img width="1536" height="1024" alt="CSAT ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/d4ac314b-edb6-41b5-9d8e-3ed1c6a9197c" />
